@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @0xClaude
-- 👀 I’m interested in JavaScript & Typescript (Angular, React, and React Native), Solidity and Python.
-- 💞️ I’m looking to collaborate on some interesting projects
-- 📫 How to reach me: by mail on claude at claude7 dot xyz
+- Hi, I’m @0xClaude
+- I’m interested in TypeScript (mostly Vue, React, and React Native). 
+- I’m looking to collaborate on some interesting projects
+- Reach me at claude at biver dot dev.
 
 <!---
 0xClaude/0xClaude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
